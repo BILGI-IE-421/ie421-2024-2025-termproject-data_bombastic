@@ -1,4 +1,4 @@
-This repository containts a data science project about Urbanization and Transportation theme by focusing on Istanbul's traffic with 3 specific questions.
+This repository contains a data science project on the theme of Urbanization and Transportation, exploring 2 intriguing factors contributing to Istanbul's traffic jam and the effectiveness of newly introduced subway lines.
 
 Question 1: Does Monday Syndrome have an effect on traffic density in Istanbul? We will be investigating the possible correlation between ‘Monday Syndrome’, that refers to lacking motivation, having less willpower and feeling anxious to start the week, and Istanbul’s traffic. By analyzing the hourly and daily traffic density datasets provided by IBB, we will compare Monday to other weekdays.
 
