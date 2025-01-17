@@ -17,10 +17,13 @@ Methodology and Approach
 
 Datasets
 https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set
+
 https://tr.wikipedia.org/wiki/2024-25_Süper_Lig_maçları
 
 Eren Gümüşay 121203082
+
 Mohamad Siag 121203010
+
 Fahed Fahham 121203003
  
 https://erengumusay.github.io/Whistle-Blown-Gear-Down/
