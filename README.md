@@ -13,7 +13,7 @@ Methodology and Approach
     * Comparative charts showcase the differences between derby and non-derby matches.
 3. Predictive Modeling:
     * A regression model was developed for each team to predict traffic density on match days.
-    * Key features include match time, derby status, day type (weekday/weekend), and national holidays.
+    * Key features include match time, derby status, day type (weekday/weekend), and national holidays. 
 
 Datasets
 https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set
